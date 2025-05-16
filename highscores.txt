@@ -1,7 +1,1 @@
-Ayesha            3                  1
-Manahil            49                  2
-Manahil            3                  1
-Manahil            33                  2
-            2                  2
-Manahil            27                  2
-            18                  2
+
